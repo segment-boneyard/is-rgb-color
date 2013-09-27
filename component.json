@@ -1,0 +1,12 @@
+{
+  "name": "is-rgb-color",
+  "repo": "segmentio/is-rgb-color",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Loosely check whether a string is an RGB(A) color string.",
+  "keywords": ["validate", "rgb", "color"],
+  "development": {
+    "component/assert": "*"
+  },
+  "scripts": ["index.js"]
+}
